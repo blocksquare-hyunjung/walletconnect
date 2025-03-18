@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://blocksquare-hyunjung.github.io/walletconnect/static/css/main.d5c0dbdd.css",
-    "main.js": "https://blocksquare-hyunjung.github.io/walletconnect/static/js/main.7b9ff57f.js",
-    "static/js/453.80efc53e.chunk.js": "https://blocksquare-hyunjung.github.io/walletconnect/static/js/453.80efc53e.chunk.js",
+    "main.js": "https://blocksquare-hyunjung.github.io/walletconnect/static/js/main.534cad1e.js",
+    "static/js/453.c2b2afdb.chunk.js": "https://blocksquare-hyunjung.github.io/walletconnect/static/js/453.c2b2afdb.chunk.js",
     "static/media/inter-latin-ext-400-normal.woff": "https://blocksquare-hyunjung.github.io/walletconnect/static/media/inter-latin-ext-400-normal.1c20f7dc20d731a18fcd.woff",
     "static/media/inter-latin-400-normal.woff": "https://blocksquare-hyunjung.github.io/walletconnect/static/media/inter-latin-400-normal.b0c8fe9db56dd415a25a.woff",
     "static/media/inter-latin-ext-400-normal.woff2": "https://blocksquare-hyunjung.github.io/walletconnect/static/media/inter-latin-ext-400-normal.3d10c85fbd16969509a2.woff2",
@@ -25,11 +25,11 @@
     "static/media/russo-one-latin-ext-400-normal.woff2": "https://blocksquare-hyunjung.github.io/walletconnect/static/media/russo-one-latin-ext-400-normal.5b078dd3fd594657af46.woff2",
     "index.html": "https://blocksquare-hyunjung.github.io/walletconnect/index.html",
     "main.d5c0dbdd.css.map": "https://blocksquare-hyunjung.github.io/walletconnect/static/css/main.d5c0dbdd.css.map",
-    "main.7b9ff57f.js.map": "https://blocksquare-hyunjung.github.io/walletconnect/static/js/main.7b9ff57f.js.map",
-    "453.80efc53e.chunk.js.map": "https://blocksquare-hyunjung.github.io/walletconnect/static/js/453.80efc53e.chunk.js.map"
+    "main.534cad1e.js.map": "https://blocksquare-hyunjung.github.io/walletconnect/static/js/main.534cad1e.js.map",
+    "453.c2b2afdb.chunk.js.map": "https://blocksquare-hyunjung.github.io/walletconnect/static/js/453.c2b2afdb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5c0dbdd.css",
-    "static/js/main.7b9ff57f.js"
+    "static/js/main.534cad1e.js"
   ]
 }
