@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/walletconnect/static/css/main.68c23cee.css",
-    "main.js": "/walletconnect/static/js/main.490c6e2a.js",
+    "main.js": "/walletconnect/static/js/main.ed7949bb.js",
     "static/js/453.80efc53e.chunk.js": "/walletconnect/static/js/453.80efc53e.chunk.js",
     "static/media/inter-latin-ext-400-normal.woff": "/walletconnect/static/media/inter-latin-ext-400-normal.1c20f7dc20d731a18fcd.woff",
     "static/media/inter-latin-400-normal.woff": "/walletconnect/static/media/inter-latin-400-normal.b0c8fe9db56dd415a25a.woff",
@@ -25,11 +25,11 @@
     "static/media/russo-one-latin-ext-400-normal.woff2": "/walletconnect/static/media/russo-one-latin-ext-400-normal.5b078dd3fd594657af46.woff2",
     "index.html": "/walletconnect/index.html",
     "main.68c23cee.css.map": "/walletconnect/static/css/main.68c23cee.css.map",
-    "main.490c6e2a.js.map": "/walletconnect/static/js/main.490c6e2a.js.map",
+    "main.ed7949bb.js.map": "/walletconnect/static/js/main.ed7949bb.js.map",
     "453.80efc53e.chunk.js.map": "/walletconnect/static/js/453.80efc53e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68c23cee.css",
-    "static/js/main.490c6e2a.js"
+    "static/js/main.ed7949bb.js"
   ]
 }
